@@ -157,3 +157,19 @@ D:\정봉준\업무\12. C#\chapter3\Bool\obj\Debug\net5.0\chapter3.dll
 D:\정봉준\업무\12. C#\chapter3\Bool\obj\Debug\net5.0\ref\chapter3.dll
 D:\정봉준\업무\12. C#\chapter3\Bool\obj\Debug\net5.0\chapter3.pdb
 D:\정봉준\업무\12. C#\chapter3\Bool\obj\Debug\net5.0\chapter3.genruntimeconfig.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\bin\Debug\net5.0\chapter3.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\bin\Debug\net5.0\chapter3.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\bin\Debug\net5.0\chapter3.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\bin\Debug\net5.0\chapter3.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\bin\Debug\net5.0\chapter3.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\bin\Debug\net5.0\ref\chapter3.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\bin\Debug\net5.0\chapter3.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\obj\Debug\net5.0\chapter3.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\obj\Debug\net5.0\chapter3.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\obj\Debug\net5.0\chapter3.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\obj\Debug\net5.0\chapter3.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\obj\Debug\net5.0\chapter3.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\obj\Debug\net5.0\chapter3.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\obj\Debug\net5.0\ref\chapter3.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\obj\Debug\net5.0\chapter3.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter3\StringModify\obj\Debug\net5.0\chapter3.genruntimeconfig.cache
