@@ -1,0 +1,16 @@
+1번	
+	
+	return arg*arg;
+
+2번
+
+	ref 사용
+	mean -> ref mean
+	double mean -> ref double mean
+
+3번
+
+	public static void Plus(double a, double c, out double c)
+	{
+		c = a + b;
+	}
