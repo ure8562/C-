@@ -1,0 +1,15 @@
+C:\Users\JungBongJun\source\repos\SwapByValue\bin\Debug\net5.0\SwapByValue.exe
+C:\Users\JungBongJun\source\repos\SwapByValue\bin\Debug\net5.0\SwapByValue.deps.json
+C:\Users\JungBongJun\source\repos\SwapByValue\bin\Debug\net5.0\SwapByValue.runtimeconfig.json
+C:\Users\JungBongJun\source\repos\SwapByValue\bin\Debug\net5.0\SwapByValue.runtimeconfig.dev.json
+C:\Users\JungBongJun\source\repos\SwapByValue\bin\Debug\net5.0\SwapByValue.dll
+C:\Users\JungBongJun\source\repos\SwapByValue\bin\Debug\net5.0\ref\SwapByValue.dll
+C:\Users\JungBongJun\source\repos\SwapByValue\bin\Debug\net5.0\SwapByValue.pdb
+C:\Users\JungBongJun\source\repos\SwapByValue\obj\Debug\net5.0\SwapByValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JungBongJun\source\repos\SwapByValue\obj\Debug\net5.0\SwapByValue.AssemblyInfoInputs.cache
+C:\Users\JungBongJun\source\repos\SwapByValue\obj\Debug\net5.0\SwapByValue.AssemblyInfo.cs
+C:\Users\JungBongJun\source\repos\SwapByValue\obj\Debug\net5.0\SwapByValue.csproj.CoreCompileInputs.cache
+C:\Users\JungBongJun\source\repos\SwapByValue\obj\Debug\net5.0\SwapByValue.dll
+C:\Users\JungBongJun\source\repos\SwapByValue\obj\Debug\net5.0\ref\SwapByValue.dll
+C:\Users\JungBongJun\source\repos\SwapByValue\obj\Debug\net5.0\SwapByValue.pdb
+C:\Users\JungBongJun\source\repos\SwapByValue\obj\Debug\net5.0\SwapByValue.genruntimeconfig.cache
