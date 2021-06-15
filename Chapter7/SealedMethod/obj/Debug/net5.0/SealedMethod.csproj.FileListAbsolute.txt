@@ -1,0 +1,4 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter7\SealedMethod\obj\Debug\net5.0\SealedMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter7\SealedMethod\obj\Debug\net5.0\SealedMethod.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter7\SealedMethod\obj\Debug\net5.0\SealedMethod.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter7\SealedMethod\obj\Debug\net5.0\SealedMethod.csproj.CoreCompileInputs.cache
