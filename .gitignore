@@ -1,0 +1,6 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/Chapter7/PartialClass/.vs/PartialClass/v16/.suo
+/Chapter7/Nested_Class/.vs/Nested_Class/DesignTimeBuild/.dtbcache.v2
