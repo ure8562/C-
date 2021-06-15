@@ -1,0 +1,5 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter7\ReadonlyFields\obj\Debug\net5.0\ReadonlyFields.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter7\ReadonlyFields\obj\Debug\net5.0\ReadonlyFields.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter7\ReadonlyFields\obj\Debug\net5.0\ReadonlyFields.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter7\ReadonlyFields\obj\Debug\net5.0\ReadonlyFields.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter7\ReadonlyFields\obj\Debug\net5.0\ReadonlyFields.csproj.CoreCompileInputs.cache
