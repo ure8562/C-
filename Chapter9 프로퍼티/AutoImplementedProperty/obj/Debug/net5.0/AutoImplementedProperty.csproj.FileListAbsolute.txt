@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\bin\Debug\net5.0\ref\AutoImplementedProperty.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\obj\Debug\net5.0\ref\AutoImplementedProperty.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.genruntimeconfig.cache
