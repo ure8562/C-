@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\bin\Debug\net5.0\DerivedInterface.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\bin\Debug\net5.0\DerivedInterface.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\bin\Debug\net5.0\DerivedInterface.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\bin\Debug\net5.0\DerivedInterface.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\bin\Debug\net5.0\DerivedInterface.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\bin\Debug\net5.0\ref\DerivedInterface.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\bin\Debug\net5.0\DerivedInterface.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\obj\Debug\net5.0\DerivedInterface.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\obj\Debug\net5.0\DerivedInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\obj\Debug\net5.0\DerivedInterface.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\obj\Debug\net5.0\DerivedInterface.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\obj\Debug\net5.0\DerivedInterface.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\obj\Debug\net5.0\DerivedInterface.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\obj\Debug\net5.0\ref\DerivedInterface.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\obj\Debug\net5.0\DerivedInterface.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter8 인터페이스와 추상 클래스\DerivedInterface\obj\Debug\net5.0\DerivedInterface.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MultiInterfaceheritance/1.0.0": {
+        "runtime": {
+          "MultiInterfaceheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiInterfaceheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
