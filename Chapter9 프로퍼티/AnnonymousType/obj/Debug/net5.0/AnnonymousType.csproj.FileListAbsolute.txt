@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\bin\Debug\net5.0\AnnonymousType.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\bin\Debug\net5.0\AnnonymousType.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\bin\Debug\net5.0\AnnonymousType.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\bin\Debug\net5.0\AnnonymousType.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\bin\Debug\net5.0\AnnonymousType.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\bin\Debug\net5.0\ref\AnnonymousType.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\bin\Debug\net5.0\AnnonymousType.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\obj\Debug\net5.0\AnnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\obj\Debug\net5.0\AnnonymousType.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\obj\Debug\net5.0\AnnonymousType.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\obj\Debug\net5.0\AnnonymousType.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\obj\Debug\net5.0\AnnonymousType.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\obj\Debug\net5.0\ref\AnnonymousType.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\obj\Debug\net5.0\AnnonymousType.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\AnnonymousType\obj\Debug\net5.0\AnnonymousType.genruntimeconfig.cache
