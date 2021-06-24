@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\bin\Debug\net5.0\RecordComp.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\bin\Debug\net5.0\RecordComp.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\bin\Debug\net5.0\RecordComp.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\bin\Debug\net5.0\RecordComp.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\bin\Debug\net5.0\RecordComp.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\bin\Debug\net5.0\ref\RecordComp.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\bin\Debug\net5.0\RecordComp.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\obj\Debug\net5.0\RecordComp.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\obj\Debug\net5.0\RecordComp.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\obj\Debug\net5.0\RecordComp.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\obj\Debug\net5.0\RecordComp.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\obj\Debug\net5.0\RecordComp.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\obj\Debug\net5.0\ref\RecordComp.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\obj\Debug\net5.0\RecordComp.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\RecordComp\obj\Debug\net5.0\RecordComp.genruntimeconfig.cache
