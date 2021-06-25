@@ -1,0 +1,20 @@
+1번	
+	Public int Age
+	{
+		get;
+		set;
+	}
+	Public string Name
+	{	
+		get;
+		set;
+	}
+	MyCard.Age(24);
+	MyCard.Name("상현")
+	Console.writeLine("나이 : {0}", MyCard.Age());
+	Console.writeLine("이름 : {0}", MyCard.Name());
+
+2번
+	new(이름 = "박상현", 나이 = 17};
+	new(Real = 3, Imaginary = -12};
+	
