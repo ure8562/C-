@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\bin\Debug\net5.0\PropertiesInInterface.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\bin\Debug\net5.0\PropertiesInInterface.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\bin\Debug\net5.0\PropertiesInInterface.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\bin\Debug\net5.0\PropertiesInInterface.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\bin\Debug\net5.0\PropertiesInInterface.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\bin\Debug\net5.0\ref\PropertiesInInterface.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\bin\Debug\net5.0\PropertiesInInterface.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\obj\Debug\net5.0\PropertiesInInterface.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\obj\Debug\net5.0\PropertiesInInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\obj\Debug\net5.0\PropertiesInInterface.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\obj\Debug\net5.0\PropertiesInInterface.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\obj\Debug\net5.0\PropertiesInInterface.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\obj\Debug\net5.0\PropertiesInInterface.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\obj\Debug\net5.0\ref\PropertiesInInterface.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\obj\Debug\net5.0\PropertiesInInterface.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInInterface\obj\Debug\net5.0\PropertiesInInterface.genruntimeconfig.cache
