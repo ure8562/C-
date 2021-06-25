@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\bin\Debug\net5.0\InitializingArray.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\bin\Debug\net5.0\InitializingArray.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\bin\Debug\net5.0\InitializingArray.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\bin\Debug\net5.0\InitializingArray.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\bin\Debug\net5.0\InitializingArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\bin\Debug\net5.0\ref\InitializingArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\bin\Debug\net5.0\InitializingArray.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\obj\Debug\net5.0\InitializingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\obj\Debug\net5.0\InitializingArray.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\obj\Debug\net5.0\InitializingArray.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\obj\Debug\net5.0\InitializingArray.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\obj\Debug\net5.0\InitializingArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\obj\Debug\net5.0\ref\InitializingArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\obj\Debug\net5.0\InitializingArray.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingArray\obj\Debug\net5.0\InitializingArray.genruntimeconfig.cache
