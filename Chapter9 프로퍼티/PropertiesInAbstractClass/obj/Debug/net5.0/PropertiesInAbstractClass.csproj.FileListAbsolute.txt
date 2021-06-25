@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\bin\Debug\net5.0\PropertiesInAbstractClass.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\bin\Debug\net5.0\PropertiesInAbstractClass.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\bin\Debug\net5.0\PropertiesInAbstractClass.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\bin\Debug\net5.0\PropertiesInAbstractClass.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\bin\Debug\net5.0\PropertiesInAbstractClass.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\bin\Debug\net5.0\ref\PropertiesInAbstractClass.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\bin\Debug\net5.0\PropertiesInAbstractClass.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\obj\Debug\net5.0\PropertiesInAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\obj\Debug\net5.0\PropertiesInAbstractClass.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\obj\Debug\net5.0\PropertiesInAbstractClass.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\obj\Debug\net5.0\PropertiesInAbstractClass.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\obj\Debug\net5.0\PropertiesInAbstractClass.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\obj\Debug\net5.0\ref\PropertiesInAbstractClass.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\obj\Debug\net5.0\PropertiesInAbstractClass.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter9 프로퍼티\PropertiesInAbstractClass\obj\Debug\net5.0\PropertiesInAbstractClass.genruntimeconfig.cache
