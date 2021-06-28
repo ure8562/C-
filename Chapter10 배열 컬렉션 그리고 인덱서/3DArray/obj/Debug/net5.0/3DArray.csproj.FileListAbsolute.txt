@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\bin\Debug\net5.0\3DArray.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\bin\Debug\net5.0\3DArray.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\bin\Debug\net5.0\3DArray.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\bin\Debug\net5.0\3DArray.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\bin\Debug\net5.0\3DArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\bin\Debug\net5.0\ref\3DArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\bin\Debug\net5.0\3DArray.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\obj\Debug\net5.0\3DArray.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\obj\Debug\net5.0\3DArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\obj\Debug\net5.0\3DArray.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\obj\Debug\net5.0\3DArray.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\obj\Debug\net5.0\3DArray.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\obj\Debug\net5.0\3DArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\obj\Debug\net5.0\ref\3DArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\obj\Debug\net5.0\3DArray.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\3DArray\obj\Debug\net5.0\3DArray.genruntimeconfig.cache
