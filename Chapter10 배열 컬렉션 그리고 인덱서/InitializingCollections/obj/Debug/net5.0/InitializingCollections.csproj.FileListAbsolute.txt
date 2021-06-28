@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\bin\Debug\net5.0\InitializingCollections.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\bin\Debug\net5.0\InitializingCollections.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\bin\Debug\net5.0\InitializingCollections.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\bin\Debug\net5.0\InitializingCollections.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\bin\Debug\net5.0\InitializingCollections.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\bin\Debug\net5.0\ref\InitializingCollections.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\bin\Debug\net5.0\InitializingCollections.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\obj\Debug\net5.0\InitializingCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\obj\Debug\net5.0\InitializingCollections.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\obj\Debug\net5.0\InitializingCollections.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\obj\Debug\net5.0\InitializingCollections.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\obj\Debug\net5.0\InitializingCollections.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\obj\Debug\net5.0\ref\InitializingCollections.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\obj\Debug\net5.0\InitializingCollections.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\InitializingCollections\obj\Debug\net5.0\InitializingCollections.genruntimeconfig.cache
