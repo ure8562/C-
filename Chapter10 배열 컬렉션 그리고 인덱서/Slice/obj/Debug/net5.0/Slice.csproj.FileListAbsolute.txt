@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\bin\Debug\net5.0\Slice.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\bin\Debug\net5.0\Slice.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\bin\Debug\net5.0\Slice.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\bin\Debug\net5.0\Slice.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\bin\Debug\net5.0\Slice.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\bin\Debug\net5.0\ref\Slice.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\bin\Debug\net5.0\Slice.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\obj\Debug\net5.0\Slice.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\obj\Debug\net5.0\Slice.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\obj\Debug\net5.0\Slice.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\obj\Debug\net5.0\Slice.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\obj\Debug\net5.0\Slice.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\obj\Debug\net5.0\ref\Slice.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\obj\Debug\net5.0\Slice.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\Slice\obj\Debug\net5.0\Slice.genruntimeconfig.cache
