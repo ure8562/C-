@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\bin\Debug\net5.0\MoreOnArray.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\bin\Debug\net5.0\MoreOnArray.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\bin\Debug\net5.0\MoreOnArray.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\bin\Debug\net5.0\MoreOnArray.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\bin\Debug\net5.0\MoreOnArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\bin\Debug\net5.0\ref\MoreOnArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\bin\Debug\net5.0\MoreOnArray.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\obj\Debug\net5.0\MoreOnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\obj\Debug\net5.0\MoreOnArray.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\obj\Debug\net5.0\MoreOnArray.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\obj\Debug\net5.0\MoreOnArray.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\obj\Debug\net5.0\MoreOnArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\obj\Debug\net5.0\ref\MoreOnArray.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\obj\Debug\net5.0\MoreOnArray.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter10 배열 컬렉션 그리고 인덱서\MoreOnArray\obj\Debug\net5.0\MoreOnArray.genruntimeconfig.cache
