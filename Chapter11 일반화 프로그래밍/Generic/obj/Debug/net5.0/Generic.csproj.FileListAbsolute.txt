@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\bin\Debug\net5.0\Generic.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\bin\Debug\net5.0\Generic.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\bin\Debug\net5.0\Generic.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\bin\Debug\net5.0\Generic.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\bin\Debug\net5.0\Generic.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\bin\Debug\net5.0\ref\Generic.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\bin\Debug\net5.0\Generic.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\obj\Debug\net5.0\Generic.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\obj\Debug\net5.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\obj\Debug\net5.0\Generic.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\obj\Debug\net5.0\Generic.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\obj\Debug\net5.0\Generic.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\obj\Debug\net5.0\Generic.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\obj\Debug\net5.0\ref\Generic.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\obj\Debug\net5.0\Generic.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter11 일반화 프로그래밍\Generic\obj\Debug\net5.0\Generic.genruntimeconfig.cache
