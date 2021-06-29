@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\bin\Debug\net5.0\MyException.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\bin\Debug\net5.0\MyException.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\bin\Debug\net5.0\MyException.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\bin\Debug\net5.0\MyException.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\bin\Debug\net5.0\MyException.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\bin\Debug\net5.0\ref\MyException.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\bin\Debug\net5.0\MyException.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\obj\Debug\net5.0\MyException.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\obj\Debug\net5.0\MyException.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\obj\Debug\net5.0\MyException.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\obj\Debug\net5.0\MyException.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\obj\Debug\net5.0\MyException.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\obj\Debug\net5.0\ref\MyException.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\obj\Debug\net5.0\MyException.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\MyException\obj\Debug\net5.0\MyException.genruntimeconfig.cache
