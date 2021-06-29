@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\bin\Debug\net5.0\StackTrace.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\bin\Debug\net5.0\StackTrace.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\bin\Debug\net5.0\StackTrace.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\bin\Debug\net5.0\StackTrace.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\bin\Debug\net5.0\StackTrace.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\bin\Debug\net5.0\ref\StackTrace.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\bin\Debug\net5.0\StackTrace.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\obj\Debug\net5.0\StackTrace.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\obj\Debug\net5.0\StackTrace.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\obj\Debug\net5.0\StackTrace.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\obj\Debug\net5.0\StackTrace.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\obj\Debug\net5.0\StackTrace.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\obj\Debug\net5.0\ref\StackTrace.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\obj\Debug\net5.0\StackTrace.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter12 예외처리하기\StackTrace\obj\Debug\net5.0\StackTrace.genruntimeconfig.cache
