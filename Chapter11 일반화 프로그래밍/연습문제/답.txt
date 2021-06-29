@@ -1,0 +1,5 @@
+1번	
+	queue<int> queue = new queue<int>() -> int형 만 가능 
+
+2번
+	string, string
