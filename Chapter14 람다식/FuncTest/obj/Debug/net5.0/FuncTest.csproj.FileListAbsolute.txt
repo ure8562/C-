@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\bin\Debug\net5.0\FuncTest.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\bin\Debug\net5.0\FuncTest.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\bin\Debug\net5.0\FuncTest.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\bin\Debug\net5.0\FuncTest.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\bin\Debug\net5.0\FuncTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\bin\Debug\net5.0\ref\FuncTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\bin\Debug\net5.0\FuncTest.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\obj\Debug\net5.0\FuncTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\obj\Debug\net5.0\FuncTest.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\obj\Debug\net5.0\FuncTest.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\obj\Debug\net5.0\FuncTest.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\obj\Debug\net5.0\FuncTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\obj\Debug\net5.0\ref\FuncTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\obj\Debug\net5.0\FuncTest.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\FuncTest\obj\Debug\net5.0\FuncTest.genruntimeconfig.cache
