@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\bin\Debug\net5.0\EventTest.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\bin\Debug\net5.0\EventTest.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\bin\Debug\net5.0\EventTest.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\bin\Debug\net5.0\EventTest.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\bin\Debug\net5.0\EventTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\bin\Debug\net5.0\ref\EventTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\bin\Debug\net5.0\EventTest.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\obj\Debug\net5.0\EventTest.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\obj\Debug\net5.0\EventTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\obj\Debug\net5.0\EventTest.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\obj\Debug\net5.0\EventTest.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\obj\Debug\net5.0\EventTest.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\obj\Debug\net5.0\EventTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\obj\Debug\net5.0\ref\EventTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\obj\Debug\net5.0\EventTest.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter13 대리자와 이벤트\EventTest\obj\Debug\net5.0\EventTest.genruntimeconfig.cache
