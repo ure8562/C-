@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\bin\Debug\net5.0\simpleLambda.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\bin\Debug\net5.0\simpleLambda.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\bin\Debug\net5.0\simpleLambda.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\bin\Debug\net5.0\simpleLambda.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\bin\Debug\net5.0\simpleLambda.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\bin\Debug\net5.0\ref\simpleLambda.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\bin\Debug\net5.0\simpleLambda.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\obj\Debug\net5.0\simpleLambda.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\obj\Debug\net5.0\simpleLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\obj\Debug\net5.0\simpleLambda.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\obj\Debug\net5.0\simpleLambda.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\obj\Debug\net5.0\simpleLambda.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\obj\Debug\net5.0\simpleLambda.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\obj\Debug\net5.0\ref\simpleLambda.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\obj\Debug\net5.0\simpleLambda.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\simpleLambda\obj\Debug\net5.0\simpleLambda.genruntimeconfig.cache
