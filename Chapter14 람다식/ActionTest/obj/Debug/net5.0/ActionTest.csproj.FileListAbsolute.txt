@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\obj\Debug\net5.0\ActionTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\obj\Debug\net5.0\ActionTest.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\obj\Debug\net5.0\ActionTest.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\obj\Debug\net5.0\ActionTest.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\bin\Debug\net5.0\ActionTest.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\bin\Debug\net5.0\ActionTest.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\bin\Debug\net5.0\ActionTest.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\bin\Debug\net5.0\ActionTest.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\bin\Debug\net5.0\ActionTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\bin\Debug\net5.0\ref\ActionTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\bin\Debug\net5.0\ActionTest.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\obj\Debug\net5.0\ActionTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\obj\Debug\net5.0\ref\ActionTest.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\obj\Debug\net5.0\ActionTest.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ActionTest\obj\Debug\net5.0\ActionTest.genruntimeconfig.cache
