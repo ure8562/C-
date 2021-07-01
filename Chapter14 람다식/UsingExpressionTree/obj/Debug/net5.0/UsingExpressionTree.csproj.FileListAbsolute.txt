@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\bin\Debug\net5.0\UsingExpressionTree.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\bin\Debug\net5.0\UsingExpressionTree.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\bin\Debug\net5.0\UsingExpressionTree.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\bin\Debug\net5.0\UsingExpressionTree.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\bin\Debug\net5.0\UsingExpressionTree.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\bin\Debug\net5.0\ref\UsingExpressionTree.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\bin\Debug\net5.0\UsingExpressionTree.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\obj\Debug\net5.0\UsingExpressionTree.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\obj\Debug\net5.0\UsingExpressionTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\obj\Debug\net5.0\UsingExpressionTree.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\obj\Debug\net5.0\UsingExpressionTree.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\obj\Debug\net5.0\UsingExpressionTree.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\obj\Debug\net5.0\UsingExpressionTree.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\obj\Debug\net5.0\ref\UsingExpressionTree.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\obj\Debug\net5.0\UsingExpressionTree.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\UsingExpressionTree\obj\Debug\net5.0\UsingExpressionTree.genruntimeconfig.cache
