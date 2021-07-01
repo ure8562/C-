@@ -1,0 +1,15 @@
+1번	
+	70
+2번
+            int[] array = { 11, 22, 33, 44, 55 };
+
+            Action<int> action = (a) =>
+            {
+                Console.WriteLine(a * a);
+            };
+
+            foreach (int a in array)
+            {
+
+                action(a);
+            }
