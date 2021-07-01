@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\bin\Debug\net5.0\MinMaxAvg.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\bin\Debug\net5.0\MinMaxAvg.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\bin\Debug\net5.0\MinMaxAvg.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\bin\Debug\net5.0\MinMaxAvg.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\bin\Debug\net5.0\MinMaxAvg.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\bin\Debug\net5.0\ref\MinMaxAvg.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\bin\Debug\net5.0\MinMaxAvg.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\obj\Debug\net5.0\MinMaxAvg.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\obj\Debug\net5.0\MinMaxAvg.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\obj\Debug\net5.0\MinMaxAvg.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\obj\Debug\net5.0\MinMaxAvg.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\obj\Debug\net5.0\MinMaxAvg.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\obj\Debug\net5.0\MinMaxAvg.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\obj\Debug\net5.0\ref\MinMaxAvg.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\obj\Debug\net5.0\MinMaxAvg.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\MinMaxAvg\obj\Debug\net5.0\MinMaxAvg.genruntimeconfig.cache
