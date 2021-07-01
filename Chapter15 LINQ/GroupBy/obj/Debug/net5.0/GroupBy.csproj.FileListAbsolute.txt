@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\bin\Debug\net5.0\GroupBy.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\bin\Debug\net5.0\GroupBy.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\bin\Debug\net5.0\GroupBy.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\bin\Debug\net5.0\GroupBy.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\bin\Debug\net5.0\GroupBy.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\bin\Debug\net5.0\ref\GroupBy.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\bin\Debug\net5.0\GroupBy.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\obj\Debug\net5.0\GroupBy.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\obj\Debug\net5.0\GroupBy.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\obj\Debug\net5.0\GroupBy.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\obj\Debug\net5.0\GroupBy.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\obj\Debug\net5.0\GroupBy.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\obj\Debug\net5.0\GroupBy.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\obj\Debug\net5.0\ref\GroupBy.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\obj\Debug\net5.0\GroupBy.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\GroupBy\obj\Debug\net5.0\GroupBy.genruntimeconfig.cache
