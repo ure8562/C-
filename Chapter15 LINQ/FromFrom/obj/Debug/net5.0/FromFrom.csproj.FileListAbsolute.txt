@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\bin\Debug\net5.0\FromFrom.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\bin\Debug\net5.0\FromFrom.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\bin\Debug\net5.0\FromFrom.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\bin\Debug\net5.0\FromFrom.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\bin\Debug\net5.0\FromFrom.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\bin\Debug\net5.0\ref\FromFrom.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\bin\Debug\net5.0\FromFrom.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\obj\Debug\net5.0\FromFrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\obj\Debug\net5.0\FromFrom.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\obj\Debug\net5.0\FromFrom.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\obj\Debug\net5.0\FromFrom.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\obj\Debug\net5.0\FromFrom.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\obj\Debug\net5.0\ref\FromFrom.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\obj\Debug\net5.0\FromFrom.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter15 LINQ\FromFrom\obj\Debug\net5.0\FromFrom.genruntimeconfig.cache
