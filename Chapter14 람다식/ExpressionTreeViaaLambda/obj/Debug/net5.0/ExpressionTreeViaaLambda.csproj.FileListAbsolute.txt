@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\bin\Debug\net5.0\ExpressionTreeViaaLambda.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\bin\Debug\net5.0\ExpressionTreeViaaLambda.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\bin\Debug\net5.0\ExpressionTreeViaaLambda.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\bin\Debug\net5.0\ExpressionTreeViaaLambda.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\bin\Debug\net5.0\ExpressionTreeViaaLambda.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\bin\Debug\net5.0\ref\ExpressionTreeViaaLambda.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\bin\Debug\net5.0\ExpressionTreeViaaLambda.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\obj\Debug\net5.0\ExpressionTreeViaaLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\obj\Debug\net5.0\ExpressionTreeViaaLambda.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\obj\Debug\net5.0\ExpressionTreeViaaLambda.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\obj\Debug\net5.0\ExpressionTreeViaaLambda.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\obj\Debug\net5.0\ExpressionTreeViaaLambda.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\obj\Debug\net5.0\ref\ExpressionTreeViaaLambda.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\obj\Debug\net5.0\ExpressionTreeViaaLambda.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter14 람다식\ExpressionTreeViaaLambda\obj\Debug\net5.0\ExpressionTreeViaaLambda.genruntimeconfig.cache
