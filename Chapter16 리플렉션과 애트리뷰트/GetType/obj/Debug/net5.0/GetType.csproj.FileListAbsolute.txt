@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\bin\Debug\net5.0\GetType.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\bin\Debug\net5.0\GetType.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\bin\Debug\net5.0\GetType.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\bin\Debug\net5.0\GetType.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\bin\Debug\net5.0\GetType.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\bin\Debug\net5.0\ref\GetType.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\bin\Debug\net5.0\GetType.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\obj\Debug\net5.0\GetType.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\obj\Debug\net5.0\GetType.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\obj\Debug\net5.0\GetType.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\obj\Debug\net5.0\GetType.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\obj\Debug\net5.0\GetType.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\obj\Debug\net5.0\GetType.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\obj\Debug\net5.0\ref\GetType.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\obj\Debug\net5.0\GetType.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\GetType\obj\Debug\net5.0\GetType.genruntimeconfig.cache
