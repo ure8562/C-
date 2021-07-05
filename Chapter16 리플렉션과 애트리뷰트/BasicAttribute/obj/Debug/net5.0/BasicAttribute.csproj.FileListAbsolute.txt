@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\bin\Debug\net5.0\BasicAttribute.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\bin\Debug\net5.0\BasicAttribute.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\bin\Debug\net5.0\BasicAttribute.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\bin\Debug\net5.0\BasicAttribute.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\bin\Debug\net5.0\BasicAttribute.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\bin\Debug\net5.0\ref\BasicAttribute.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\bin\Debug\net5.0\BasicAttribute.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\obj\Debug\net5.0\BasicAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\obj\Debug\net5.0\BasicAttribute.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\obj\Debug\net5.0\BasicAttribute.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\obj\Debug\net5.0\BasicAttribute.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\obj\Debug\net5.0\BasicAttribute.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\obj\Debug\net5.0\ref\BasicAttribute.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\obj\Debug\net5.0\BasicAttribute.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter16 리플렉션과 애트리뷰트\BasicAttribute\obj\Debug\net5.0\BasicAttribute.genruntimeconfig.cache
