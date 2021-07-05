@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMInterop", "COMInterop.csproj", "{B0350A78-758D-4082-8735-0E04F5A9C95E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0350A78-758D-4082-8735-0E04F5A9C95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0350A78-758D-4082-8735-0E04F5A9C95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0350A78-758D-4082-8735-0E04F5A9C95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0350A78-758D-4082-8735-0E04F5A9C95E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77FC107B-B6DB-46AD-BF5D-873B18CF1FDE}
+	EndGlobalSection
+EndGlobal
