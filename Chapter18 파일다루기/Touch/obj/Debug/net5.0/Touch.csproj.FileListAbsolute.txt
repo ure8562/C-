@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\bin\Debug\net5.0\Touch.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\bin\Debug\net5.0\Touch.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\bin\Debug\net5.0\Touch.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\bin\Debug\net5.0\Touch.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\bin\Debug\net5.0\Touch.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\bin\Debug\net5.0\ref\Touch.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\bin\Debug\net5.0\Touch.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\obj\Debug\net5.0\Touch.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\obj\Debug\net5.0\Touch.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\obj\Debug\net5.0\Touch.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\obj\Debug\net5.0\Touch.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\obj\Debug\net5.0\Touch.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\obj\Debug\net5.0\ref\Touch.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\obj\Debug\net5.0\Touch.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Touch\obj\Debug\net5.0\Touch.genruntimeconfig.cache
