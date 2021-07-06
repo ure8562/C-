@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\obj\Debug\net5.0\BinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\obj\Debug\net5.0\BinaryFile.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\obj\Debug\net5.0\BinaryFile.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\obj\Debug\net5.0\BinaryFile.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\bin\Debug\net5.0\BinaryFile.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\bin\Debug\net5.0\BinaryFile.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\bin\Debug\net5.0\BinaryFile.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\bin\Debug\net5.0\BinaryFile.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\bin\Debug\net5.0\BinaryFile.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\bin\Debug\net5.0\ref\BinaryFile.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\bin\Debug\net5.0\BinaryFile.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\obj\Debug\net5.0\BinaryFile.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\obj\Debug\net5.0\ref\BinaryFile.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\obj\Debug\net5.0\BinaryFile.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\BinaryFile\obj\Debug\net5.0\BinaryFile.genruntimeconfig.cache
