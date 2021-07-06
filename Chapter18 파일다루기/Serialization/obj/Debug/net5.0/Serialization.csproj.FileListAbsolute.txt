@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\bin\Debug\net5.0\Serialization.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\bin\Debug\net5.0\Serialization.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\bin\Debug\net5.0\Serialization.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\bin\Debug\net5.0\Serialization.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\bin\Debug\net5.0\Serialization.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\bin\Debug\net5.0\ref\Serialization.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\bin\Debug\net5.0\Serialization.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\obj\Debug\net5.0\Serialization.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\obj\Debug\net5.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\obj\Debug\net5.0\Serialization.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\obj\Debug\net5.0\Serialization.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\obj\Debug\net5.0\Serialization.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\obj\Debug\net5.0\Serialization.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\obj\Debug\net5.0\ref\Serialization.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\obj\Debug\net5.0\Serialization.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\Serialization\obj\Debug\net5.0\Serialization.genruntimeconfig.cache
