@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\bin\Debug\net5.0\SeqNRand.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\bin\Debug\net5.0\SeqNRand.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\bin\Debug\net5.0\SeqNRand.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\bin\Debug\net5.0\SeqNRand.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\bin\Debug\net5.0\SeqNRand.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\bin\Debug\net5.0\ref\SeqNRand.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\bin\Debug\net5.0\SeqNRand.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\obj\Debug\net5.0\SeqNRand.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\obj\Debug\net5.0\SeqNRand.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\obj\Debug\net5.0\SeqNRand.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\obj\Debug\net5.0\SeqNRand.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\obj\Debug\net5.0\SeqNRand.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\obj\Debug\net5.0\ref\SeqNRand.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\obj\Debug\net5.0\SeqNRand.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter18 파일다루기\SeqNRand\obj\Debug\net5.0\SeqNRand.genruntimeconfig.cache

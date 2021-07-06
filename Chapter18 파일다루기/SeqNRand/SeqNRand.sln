@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeqNRand", "SeqNRand.csproj", "{76EF60C2-920C-4418-A0EA-E00A40BB6BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76EF60C2-920C-4418-A0EA-E00A40BB6BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EF60C2-920C-4418-A0EA-E00A40BB6BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EF60C2-920C-4418-A0EA-E00A40BB6BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EF60C2-920C-4418-A0EA-E00A40BB6BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B7D0DDD-28D5-42C1-9D30-6DE4677D7DA1}
+	EndGlobalSection
+EndGlobal
