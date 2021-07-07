@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\bin\Debug\net5.0\WaitPulse.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\bin\Debug\net5.0\WaitPulse.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\bin\Debug\net5.0\WaitPulse.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\bin\Debug\net5.0\WaitPulse.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\bin\Debug\net5.0\WaitPulse.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\bin\Debug\net5.0\ref\WaitPulse.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\bin\Debug\net5.0\WaitPulse.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\obj\Debug\net5.0\WaitPulse.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\obj\Debug\net5.0\WaitPulse.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\obj\Debug\net5.0\WaitPulse.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\obj\Debug\net5.0\WaitPulse.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\obj\Debug\net5.0\WaitPulse.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\obj\Debug\net5.0\ref\WaitPulse.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\obj\Debug\net5.0\WaitPulse.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\WaitPulse\obj\Debug\net5.0\WaitPulse.genruntimeconfig.cache
