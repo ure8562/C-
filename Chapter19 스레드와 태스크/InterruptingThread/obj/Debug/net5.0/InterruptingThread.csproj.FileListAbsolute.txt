@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\bin\Debug\net5.0\InterruptingThread.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\bin\Debug\net5.0\InterruptingThread.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\bin\Debug\net5.0\InterruptingThread.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\bin\Debug\net5.0\InterruptingThread.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\bin\Debug\net5.0\InterruptingThread.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\bin\Debug\net5.0\ref\InterruptingThread.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\bin\Debug\net5.0\InterruptingThread.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\obj\Debug\net5.0\InterruptingThread.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\obj\Debug\net5.0\InterruptingThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\obj\Debug\net5.0\InterruptingThread.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\obj\Debug\net5.0\InterruptingThread.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\obj\Debug\net5.0\InterruptingThread.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\obj\Debug\net5.0\InterruptingThread.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\obj\Debug\net5.0\ref\InterruptingThread.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\obj\Debug\net5.0\InterruptingThread.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\InterruptingThread\obj\Debug\net5.0\InterruptingThread.genruntimeconfig.cache
