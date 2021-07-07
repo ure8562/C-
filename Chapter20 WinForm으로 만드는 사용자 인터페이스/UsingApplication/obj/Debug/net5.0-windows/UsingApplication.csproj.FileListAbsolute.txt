@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\bin\Debug\net5.0-windows\UsingApplication.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\bin\Debug\net5.0-windows\UsingApplication.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\bin\Debug\net5.0-windows\UsingApplication.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\bin\Debug\net5.0-windows\UsingApplication.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\bin\Debug\net5.0-windows\UsingApplication.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\bin\Debug\net5.0-windows\ref\UsingApplication.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\bin\Debug\net5.0-windows\UsingApplication.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\obj\Debug\net5.0-windows\UsingApplication.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\obj\Debug\net5.0-windows\UsingApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\obj\Debug\net5.0-windows\UsingApplication.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\obj\Debug\net5.0-windows\UsingApplication.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\obj\Debug\net5.0-windows\UsingApplication.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\obj\Debug\net5.0-windows\UsingApplication.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\obj\Debug\net5.0-windows\ref\UsingApplication.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\obj\Debug\net5.0-windows\UsingApplication.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\UsingApplication\obj\Debug\net5.0-windows\UsingApplication.genruntimeconfig.cache
