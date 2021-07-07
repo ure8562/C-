@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\bin\Debug\net5.0\UsingTask.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\bin\Debug\net5.0\UsingTask.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\bin\Debug\net5.0\UsingTask.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\bin\Debug\net5.0\UsingTask.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\bin\Debug\net5.0\UsingTask.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\bin\Debug\net5.0\ref\UsingTask.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\bin\Debug\net5.0\UsingTask.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\obj\Debug\net5.0\UsingTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\obj\Debug\net5.0\UsingTask.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\obj\Debug\net5.0\UsingTask.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\obj\Debug\net5.0\UsingTask.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\obj\Debug\net5.0\UsingTask.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\obj\Debug\net5.0\ref\UsingTask.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\obj\Debug\net5.0\UsingTask.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\UsingTask\obj\Debug\net5.0\UsingTask.genruntimeconfig.cache
