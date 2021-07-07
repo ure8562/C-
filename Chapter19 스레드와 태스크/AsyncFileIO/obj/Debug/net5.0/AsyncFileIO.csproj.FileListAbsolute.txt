@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\bin\Debug\net5.0\AsyncFileIO.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\bin\Debug\net5.0\AsyncFileIO.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\bin\Debug\net5.0\AsyncFileIO.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\bin\Debug\net5.0\AsyncFileIO.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\bin\Debug\net5.0\AsyncFileIO.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\bin\Debug\net5.0\ref\AsyncFileIO.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\bin\Debug\net5.0\AsyncFileIO.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\obj\Debug\net5.0\AsyncFileIO.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\obj\Debug\net5.0\AsyncFileIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\obj\Debug\net5.0\AsyncFileIO.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\obj\Debug\net5.0\AsyncFileIO.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\obj\Debug\net5.0\AsyncFileIO.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\obj\Debug\net5.0\AsyncFileIO.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\obj\Debug\net5.0\ref\AsyncFileIO.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\obj\Debug\net5.0\AsyncFileIO.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AsyncFileIO\obj\Debug\net5.0\AsyncFileIO.genruntimeconfig.cache
