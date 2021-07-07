@@ -46,7 +46,7 @@ namespace TaskResult
             long currentTo = to / tasks.Length;
             for (int i = 0; i < tasks.Length; i++)
             {
-                Console.WriteLine("Task[{0]] : {1} ~ {2}", i, currentFrom, currentTo);
+                Console.WriteLine("Task[{0}] : {1} ~ {2}", i, currentFrom, currentTo);
                 tasks[i] = new Task<List<long>>(FindPrimeFunc, new long[] { currentFrom, currentTo });
                 currentFrom = currentTo + 1;
 
