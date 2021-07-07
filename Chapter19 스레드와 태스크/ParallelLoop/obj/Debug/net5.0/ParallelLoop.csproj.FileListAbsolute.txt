@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\bin\Debug\net5.0\ParallelLoop.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\bin\Debug\net5.0\ParallelLoop.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\bin\Debug\net5.0\ParallelLoop.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\bin\Debug\net5.0\ParallelLoop.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\bin\Debug\net5.0\ParallelLoop.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\bin\Debug\net5.0\ref\ParallelLoop.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\bin\Debug\net5.0\ParallelLoop.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\obj\Debug\net5.0\ParallelLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\obj\Debug\net5.0\ParallelLoop.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\obj\Debug\net5.0\ParallelLoop.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\obj\Debug\net5.0\ParallelLoop.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\obj\Debug\net5.0\ParallelLoop.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\obj\Debug\net5.0\ref\ParallelLoop.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\obj\Debug\net5.0\ParallelLoop.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\ParallelLoop\obj\Debug\net5.0\ParallelLoop.genruntimeconfig.cache
