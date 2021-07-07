@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\bin\Debug\net5.0-windows\MessageFilter.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\bin\Debug\net5.0-windows\MessageFilter.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\bin\Debug\net5.0-windows\MessageFilter.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\bin\Debug\net5.0-windows\MessageFilter.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\bin\Debug\net5.0-windows\MessageFilter.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\bin\Debug\net5.0-windows\ref\MessageFilter.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\bin\Debug\net5.0-windows\MessageFilter.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\obj\Debug\net5.0-windows\MessageFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\obj\Debug\net5.0-windows\MessageFilter.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\obj\Debug\net5.0-windows\MessageFilter.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\obj\Debug\net5.0-windows\MessageFilter.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\obj\Debug\net5.0-windows\MessageFilter.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\obj\Debug\net5.0-windows\ref\MessageFilter.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\obj\Debug\net5.0-windows\MessageFilter.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\MessageFilter\obj\Debug\net5.0-windows\MessageFilter.genruntimeconfig.cache

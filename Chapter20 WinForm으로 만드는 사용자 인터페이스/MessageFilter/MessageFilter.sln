@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageFilter", "MessageFilter.csproj", "{35A6C724-1434-4009-9D3E-08AD929BF203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A6C724-1434-4009-9D3E-08AD929BF203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A6C724-1434-4009-9D3E-08AD929BF203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A6C724-1434-4009-9D3E-08AD929BF203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A6C724-1434-4009-9D3E-08AD929BF203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E9108A-8FF9-4F31-A622-74085D139C51}
+	EndGlobalSection
+EndGlobal
