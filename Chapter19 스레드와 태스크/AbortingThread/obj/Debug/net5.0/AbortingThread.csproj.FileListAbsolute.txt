@@ -1,0 +1,15 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\bin\Debug\net5.0\AbortingThread.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\bin\Debug\net5.0\AbortingThread.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\bin\Debug\net5.0\AbortingThread.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\bin\Debug\net5.0\AbortingThread.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\bin\Debug\net5.0\AbortingThread.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\bin\Debug\net5.0\ref\AbortingThread.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\bin\Debug\net5.0\AbortingThread.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\obj\Debug\net5.0\AbortingThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\obj\Debug\net5.0\AbortingThread.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\obj\Debug\net5.0\AbortingThread.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\obj\Debug\net5.0\AbortingThread.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\obj\Debug\net5.0\AbortingThread.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\obj\Debug\net5.0\ref\AbortingThread.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\obj\Debug\net5.0\AbortingThread.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter19 스레드와 태스크\AbortingThread\obj\Debug\net5.0\AbortingThread.genruntimeconfig.cache
