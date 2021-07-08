@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\bin\Debug\net5.0-windows\FormAndControl.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\bin\Debug\net5.0-windows\FormAndControl.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\bin\Debug\net5.0-windows\FormAndControl.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\bin\Debug\net5.0-windows\FormAndControl.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\bin\Debug\net5.0-windows\FormAndControl.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\bin\Debug\net5.0-windows\ref\FormAndControl.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\bin\Debug\net5.0-windows\FormAndControl.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\obj\Debug\net5.0-windows\FormAndControl.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\obj\Debug\net5.0-windows\FormAndControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\obj\Debug\net5.0-windows\FormAndControl.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\obj\Debug\net5.0-windows\FormAndControl.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\obj\Debug\net5.0-windows\FormAndControl.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\obj\Debug\net5.0-windows\FormAndControl.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\obj\Debug\net5.0-windows\ref\FormAndControl.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\obj\Debug\net5.0-windows\FormAndControl.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter20 WinForm으로 만드는 사용자 인터페이스\FormAndControl\obj\Debug\net5.0-windows\FormAndControl.genruntimeconfig.cache
