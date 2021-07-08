@@ -1,0 +1,16 @@
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\bin\Debug\net5.0\EchoServer.exe
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\bin\Debug\net5.0\EchoServer.deps.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\bin\Debug\net5.0\EchoServer.runtimeconfig.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\bin\Debug\net5.0\EchoServer.runtimeconfig.dev.json
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\bin\Debug\net5.0\EchoServer.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\bin\Debug\net5.0\ref\EchoServer.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\bin\Debug\net5.0\EchoServer.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\obj\Debug\net5.0\EchoServer.csproj.AssemblyReference.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\obj\Debug\net5.0\EchoServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\obj\Debug\net5.0\EchoServer.AssemblyInfoInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\obj\Debug\net5.0\EchoServer.AssemblyInfo.cs
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\obj\Debug\net5.0\EchoServer.csproj.CoreCompileInputs.cache
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\obj\Debug\net5.0\EchoServer.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\obj\Debug\net5.0\ref\EchoServer.dll
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\obj\Debug\net5.0\EchoServer.pdb
+D:\정봉준\업무\99. 기타\99. Git\이것이 C#이다\Chapter21 네트워크 프로그래밍\EchoServer\obj\Debug\net5.0\EchoServer.genruntimeconfig.cache
