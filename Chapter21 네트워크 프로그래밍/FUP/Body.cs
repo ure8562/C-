@@ -82,6 +82,7 @@ namespace FUP
         {
             return DATA.Length;
         }
+
     }
 
     public class BodyResult : ISerializable  // 파일 전송 요청 메시지 0x04
